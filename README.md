@@ -19,5 +19,5 @@ This project is a real-time face detection web application built with Flask, Ope
    git clone https://github.com/bobbramillan/faceCounter.git
    pip install flask opencv-python
 
-   cd/face-counter
+   cd/faceCounter
    python app.py
