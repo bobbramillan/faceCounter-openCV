@@ -12,12 +12,12 @@ This project is a real-time face detection web application built with Flask, Ope
 - **OpenCV**: Library used for face detection with Haar Cascade Classifiers.
 - **JavaScript & HTML**: Frontend for accessing the webcam and displaying the video feed with overlays.
 
-## Setup
+## Setup (Click on http://127.0.0.1)
 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/bobbramillan/faceCounter.git
    pip install flask opencv-python
 
-   cd/faceCounter
+   cd faceCounter
    python app.py
